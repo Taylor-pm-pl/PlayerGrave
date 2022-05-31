@@ -26,7 +26,7 @@ declare(strict_types=1);
 namespace BlockMagicDev\PlayerGrave;
 
 use BlockMagicDev\PlayerGrave\Entity\Grave;
-use BlockmagicDev\PlayerGrave\GraveManager;
+use BlockMagicDev\PlayerGrave\GraveManager;
 use BlockMagicDev\PlayerGrave\utils\SingletonTrait;
 use pocketmine\entity\EntityDataHelper;
 use pocketmine\entity\EntityFactory;
