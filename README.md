@@ -1,4 +1,4 @@
-![PlayerGrave]("https://raw.githubusercontent.com/BlockMagicDev/PlayerGrave/main/assets/images/banner.gif")
+![PlayerGrave](https://raw.githubusercontent.com/BlockMagicDev/PlayerGrave/main/assets/images/banner.gif?width=1416&height=663)
 
 [![Lint](https://poggit.pmmp.io/ci.shield/BlockMagicDev/PlayerGrave/PlayerGrave)](https://poggit.pmmp.io/ci/BlockMagicDev/PlayerGrave/PlayerGrave)
 [![Discord](https://img.shields.io/discord/979551565415346297.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ApDXa7Tm)
