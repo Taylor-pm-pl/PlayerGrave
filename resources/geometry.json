@@ -1,0 +1,54 @@
+{
+	"format_version": "1.8.0",
+	"geometry.grave": 
+	{
+		"texturewidth": 128,
+		"textureheight": 128,
+		"visible_bounds_width": 2,
+		"visible_bounds_height": 1,
+		"visible_bounds_offset": [0, 0.5, 0],
+		"bones": [
+			{
+				"name": "tombe",
+				"pivot": [0, 0, 0],
+				"cubes": [
+					{
+						"origin": [-6, -1, 7], 
+						"size": [12, 17, 4], 
+						"uv": [0, 0]
+					},
+					{
+						"origin": [-6, -2, -11], 
+						"size": [12, 2, 18], 
+						"uv": [0, 45]},
+					{
+						"origin": [-5, 16, 7], 
+						"size": [10, 1, 4], 
+						"uv": [2, 0]
+					}
+				]
+			},
+			{
+				"name": "plaque",
+				"pivot": [0, 0, 0],
+				"cubes": [
+					{
+						"origin": [3, 7, -8], 
+						"size": [1, 4, 1], 
+						"uv": [0, 34]
+					},
+					{
+						"origin": [2, 6, -9], 
+						"size": [3, 2, 3], 
+						"uv": [0, 29]
+					},
+					{
+						"origin": [-6, 0, -11], 
+						"size": [12, 6, 18], 
+						"uv": [0, 21]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,5 @@
+show-memorial-name: true
+limit-spawn: true
+despawn: true
+despawn-time: 40
+worlds: []
