@@ -23,7 +23,7 @@
 
 declare(strict_types=1);
 
-namespace BlockmagicDev\PlayerGrave;
+namespace BlockMagicDev\PlayerGrave;
 
 use BlockMagicDev\PlayerGrave\Entity\Grave;
 use BlockMagicDev\PlayerGrave\Loader;
