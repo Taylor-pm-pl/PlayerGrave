@@ -8,7 +8,6 @@
 
 # Config
 
-config.yml
 ```yaml
 #Set it to true to show the player's name on the grave
 show-memorial-name: true
