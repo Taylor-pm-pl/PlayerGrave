@@ -27,6 +27,7 @@ namespace BlockMagicDev\PlayerGrave;
 
 use BlockMagicDev\PlayerGrave\Entity\Grave;
 use BlockmagicDev\PlayerGrave\GraveManager;
+use BlockMagicDev\PlayerGrave\utils\SingletonTrait;
 use pocketmine\entity\EntityDataHelper;
 use pocketmine\entity\EntityFactory;
 use pocketmine\entity\Human;
@@ -34,7 +35,6 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\plugin\PluginBase;
-use pocketmine\utils\SingletonTrait;
 use pocketmine\world\World;
 use function in_array;
 
